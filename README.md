@@ -109,4 +109,11 @@ The dataset was generated using Python libraries such as:
 ## 📊 Sample Visualization
 **Attendance vs Average Marks**
 
+<img width="911" height="707" alt="image" src="https://github.com/user-attachments/assets/b6ce8ff4-c870-4b2e-9037-abfc3e4c6b71" />
+<img width="658" height="572" alt="image" src="https://github.com/user-attachments/assets/4a8a4a5c-6df3-4657-a08a-f8629446478d" />
+<img width="925" height="696" alt="image" src="https://github.com/user-attachments/assets/6d1e9974-d0fa-4f7f-9121-42ff63fb9175" />
+<img width="925" height="675" alt="image" src="https://github.com/user-attachments/assets/5eed6f04-728f-4187-9018-62985af876f6" />
+
+
+
 
